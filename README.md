@@ -1,4 +1,4 @@
-# ai-agent
+# Research Ai-Agent
 
 An AI-powered research assistant agent built with LangChain and Google's Gemini models. It can autonomously search the web, query Wikipedia, and save compiled research directly to a text file.
 
