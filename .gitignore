@@ -1,3 +1,4 @@
 .env
+.venv
 research_paper.txt
 __pycache__
